@@ -1,1 +1,16 @@
+# Arduino build files
+*.ino.cpp
+*.elf
+*.hex
 
+# Compiled files
+*.o
+*.a
+
+# Proteus backup files
+*.pdsprj.BACKUP
+*.pdsbak
+
+# OS generated files
+.DS_Store
+Thumbs.db
